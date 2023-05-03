@@ -15,7 +15,7 @@
 #define CLIENT_VERSION_REVISION    3
 #define CLIENT_VERSION_BUILD       0
 
-#define COPYRIGHT_YEAR 2020
+#define COPYRIGHT_YEAR 2023
 
 // Converts the parameter X to a string after macro replacement on X has been performed.
 // Don't merge these into one macro!
